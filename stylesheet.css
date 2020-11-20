@@ -1,0 +1,20 @@
+h1 {
+  font-style: italic;
+  color: rgb(150, 150, 150);
+}
+
+h2 {
+  font-size: xx-large;
+}
+
+h3 {
+  font-size: x-large;
+}
+
+.background {
+  background-color: rgb(189, 189, 189);
+}
+
+img {
+  margin-bottom: 15px;
+}
